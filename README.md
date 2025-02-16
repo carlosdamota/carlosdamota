@@ -18,6 +18,7 @@ Puedes seguir mi evolución y contactarme a través de:
 
 - [GitHub](https://github.com/carlosdamota)
 - [LinkedIn](https://www.linkedin.com/in/carlos-damota/)
+- [FrontendMentor](https://www.frontendmentor.io/profile/carlosdamota) 
 <p align="center">
   <a href="https://www.codewars.com/users/carlosdamota">
     <img src="https://www.codewars.com/users/carlosdamota/badges/small" alt="Codewars Badges" />
@@ -42,7 +43,8 @@ Puedes seguir mi evolución y contactarme a través de:
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="50" alt="React" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="50" alt="Git" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="50" alt="GitHub" />
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/vscode/vscode.png" width="50" alt="VS Code" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vscode.svg" width="50" alt="VS Code" style="margin: 5px;" />
+
   <br>
-  **JavaScript | HTML5 | CSS3 | SASS | Python | Git | GitHub | React | VS Code**
+  **JavaScript | HTML5 | CSS3 | SASS | Python | React | Git | GitHub | VS Code**
 </div>
