@@ -6,8 +6,8 @@
 # ¡Hola, soy Carlos Damota!
 
 <p align="center">
-  <a href="https://www.codewars.com/users/carlosdamota">
-    <img src="https://www.codewars.com/users/carlosdamota/badges/small" alt="Codewars Badges" />
+  <a href="#">
+    <img src="https://github-profile-trophy.vercel.app/?username=carlosdamota&theme=oldie" alt="GitHub Badges" />
   </a>
 </p>
 
@@ -15,9 +15,14 @@
 
 Soy **Carlos Damota**, un programador en formación apasionado por el desarrollo front-end y fullstack. Me esfuerzo día a día para mejorar la calidad de mi código y alcanzar mi meta profesional. Actualmente, estoy formándome intensamente y en búsqueda de mi primer gran desafío en la industria.  
 Puedes seguir mi evolución y contactarme a través de:  
+
 - [GitHub](https://github.com/carlosdamota)  
-- [Codewars](https://www.codewars.com/users/carlosdamota)  
 - [LinkedIn](https://www.linkedin.com/in/carlos-damota/)
+<p align="center">
+  <a href="https://www.codewars.com/users/carlosdamota">
+    <img src="https://www.codewars.com/users/carlosdamota/badges/small" alt="Codewars Badges" />
+  </a>
+</p>
 
 ## Estadísticas y Lenguajes
 
@@ -29,15 +34,11 @@ Puedes seguir mi evolución y contactarme a través de:
 ## Lenguajes
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="50" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="50" alt="JavaScript" style="margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="50" alt="HTML5" style="margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="50" alt="CSS3" style="margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" width="50" alt="SASS" style="margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="50" alt="Python" style="margin: 5px;" />
   <br>
-  **JavaScript**
+  **JavaScript | HTML5 | CSS3 | SASS | Python**
 </div>
-
-## Últimos Proyectos Destacados
-
-Aquí tienes algunos de mis proyectos más recientes, con sus respectivas métricas y tecnologías utilizadas:
-
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamota&repo=articulo-preview-fm-js&theme=vision-friendly-dark)](https://github.com/carlosdamota/articulo-preview-fm-js)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamota&repo=newsletter-sign-up-js-fm&theme=vision-friendly-dark)](https://github.com/carlosdamota/newsletter-sign-up-js-fm)
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=carlosdamota&repo=Reto_tarjeta_producto&theme=vision-friendly-dark)](https://github.com/carlosdamota/Reto_tarjeta_producto)
