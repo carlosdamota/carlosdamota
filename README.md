@@ -13,7 +13,12 @@
 
 ## Sobre Mí
 
-Soy **Carlos Damota**, un programador en formación apasionado por el desarrollo front-end y fullstack. Me esfuerzo día a día para mejorar la calidad de mi código y alcanzar mi meta profesional. Actualmente, estoy formándome intensamente y en búsqueda de mi primer gran desafío en la industria.  
+Desarrollador web Full-Stack con más de 14 años de experiencia previa en retail, donde aprendí el valor del compromiso, la organización y el trabajo en equipo. Actualmente finalizando el Máster en Desarrollo Web Full-Stack en Nuclio Digital School, con experiencia en React, Node.js y MongoDB.
+
+Me apasiona resolver problemas cotidianos con código, creando soluciones limpias, accesibles y mantenibles. Valoro el trabajo en equipo y creo en el poder de la colaboración para crear mejores soluciones. Siempre dispuesto a aprender, compartir conocimientos y recibir feedback.
+
+Busco mi primera oportunidad profesional para aportar mis conocimientos, seguir creciendo y crear software útil para usuarios reales.
+
 Puedes seguir mi evolución y contactarme a través de:
 
 - [GitHub](https://github.com/carlosdamota)
@@ -41,10 +46,14 @@ Puedes seguir mi evolución y contactarme a través de:
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" width="50" alt="SASS" style="margin: 5px;" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="50" alt="Python" style="margin: 5px;" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="50" alt="React" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" width="50" alt="Tailwind CSS" style="margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="50" alt="Node.js" style="margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" width="50" alt="Express.js" style="margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" width="50" alt="MongoDB" style="margin: 5px;" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="50" alt="Git" />
   <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="50" alt="GitHub" />
   <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vscode.svg" width="50" alt="VS Code" style="margin: 5px;" />
 
   <br>
-  **JavaScript | HTML5 | CSS3 | SASS | Python | React | Git | GitHub | VS Code**
+  **JavaScript | HTML5 | CSS3 | SASS | Python | React | React Router | Node.js | Express | MongoDB | Tailwind CSS | Git | GitHub | VS Code**
 </div>
