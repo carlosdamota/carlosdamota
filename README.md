@@ -57,3 +57,8 @@ Puedes seguir mi evolución y contactarme a través de:
   <br>
   **JavaScript | HTML5 | CSS3 | SASS | Python | React | React Router | Node.js | Express | MongoDB | Tailwind CSS | Git | GitHub | VS Code**
 </div>
+<br>
+<div align="center">
+ ![](https://hit.yhype.me/github/profile?account_id=120396445)
+</div>
+
