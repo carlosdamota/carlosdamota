@@ -60,6 +60,6 @@ Puedes seguir mi evolución y contactarme a través de:
 <br>
 <div align="center">
  ![](https://hit.yhype.me/github/profile?account_id=120396445)
-  ![](https://komarev.com/ghpvc/?username=carlosdamota&label=PROFILE+VIEWS)
+  ![](https://komarev.com/ghpvc/?username=carlosdamota&label=VIEWS)
 </div>
 
