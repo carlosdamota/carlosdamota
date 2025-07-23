@@ -31,7 +31,7 @@ Puedes seguir mi evolución y contactarme a través de:
 
 <p align="">
   <img src="https://github-readme-stats.vercel.app/api?username=carlosdamota&show_icons=true&theme=tokyonight&hide_title=true" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdamota&layout=compact&theme=tokyonight&langs_count=6 " alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdamota&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 
