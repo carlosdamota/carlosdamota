@@ -49,4 +49,42 @@ Puedes seguir mi evolución y contactarme a través de:
   <a href="#">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=carlosdamota&theme=dark" alt="GitHub Badges" />
   </a>
+<<<<<<< HEAD
 </p>
+=======
+</p>
+
+## Estadísticas y Lenguajes
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=carlosdamota&theme=vision-friendly-dark" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlosdamota&theme=vision-friendly-dark&layout=compact" alt="Top Languages" />
+</p>
+
+## Lenguajes
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/javascript/javascript.png" width="50" alt="JavaScript" style="margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/html/html.png" width="50" alt="HTML5" style="margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/css/css.png" width="50" alt="CSS3" style="margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/sass/sass.png" width="50" alt="SASS" style="margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/python/python.png" width="50" alt="Python" style="margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/react/react.png" width="50" alt="React" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/tailwind/tailwind.png" width="50" alt="Tailwind CSS" style="margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/nodejs/nodejs.png" width="50" alt="Node.js" style="margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/express/express.png" width="50" alt="Express.js" style="margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/mongodb/mongodb.png" width="50" alt="MongoDB" style="margin: 5px;" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/git/git.png" width="50" alt="Git" />
+  <img src="https://raw.githubusercontent.com/github/explore/main/topics/github/github.png" width="50" alt="GitHub" />
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_vscode.svg" width="50" alt="VS Code" style="margin: 5px;" />
+
+  <br>
+  **JavaScript | HTML5 | CSS3 | SASS | Python | React | React Router | Node.js | Express | MongoDB | Tailwind CSS | Git | GitHub | VS Code**
+</div>
+<br>
+<div align="center">
+  
+  ![](https://komarev.com/ghpvc/?username=carlosdamota&label=VIEWS)
+</div>
+
+>>>>>>> 91ee9db453052ac460a57714a15b8737ec502d74
