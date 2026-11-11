@@ -1,6 +1,7 @@
-<!-- Retrato en pixel art generado desde public/Foto_perfil.jpg (rejilla 64, paleta de 24 colores, escalado sin interpolación) -->
+<!-- Retrato en pixel art animado, generado desde public/Foto_perfil.jpg del portafolio:
+     rejilla de 26 celdas, paleta de 10 colores, escalado sin interpolación y bob de una celda. -->
 <p align="center">
-  <img src="./pixel-art.png" alt="Carlos Damota" width="220" />
+  <img src="./pixel-art.gif" alt="Carlos Damota" width="120" height="120" />
 </p>
 
 <h1 align="center">Carlos Damota</h1>
